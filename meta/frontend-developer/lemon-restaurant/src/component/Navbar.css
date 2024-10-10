@@ -1,0 +1,37 @@
+.logo{
+  height: 50px;
+  width: 50px;
+}
+.logocontainer{
+  display: flex;
+  gap: 5px;
+}
+.logocontainer p{
+  font-size: larger;
+}
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+nav p{
+  color: #138d75 ;
+}
+ul li{
+  list-style: none;
+  cursor: pointer;
+}
+
+ul{
+  display: flex;
+  gap: 22px;
+}
+.login{
+  background-color: #deed10ed;
+  width: 80px;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  padding: 4px;
+}

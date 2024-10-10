@@ -1,0 +1,20 @@
+.menuimg{
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+.menucard{
+  display: flex;
+  flex-direction: column;
+  
+  
+}
+.menucard p{
+  width: 200px;
+}
+.menu1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 13px;
+}

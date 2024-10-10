@@ -1,0 +1,10 @@
+.butt{
+  width: 120px;
+  height: 45px;
+  background-color:
+  #FFC300;
+  text-align: center;
+  border: none;
+  border-radius: 15%;
+  cursor: pointer;
+}

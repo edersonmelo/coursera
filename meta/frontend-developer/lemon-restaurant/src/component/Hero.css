@@ -1,0 +1,38 @@
+.hero{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+  margin-top: 40px;
+  background-color: #023f32de;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  width: 100%;
+  height: 280px;
+  color: white;
+}
+.heroright .waiterimg{
+  height: 250px;
+  width: 200px;
+  margin-top: 190px;
+  border-radius: 10px;
+}
+.heroleft{
+  display: flex;
+  flex-direction: column;
+  
+
+}
+.heroleft p{
+  width: 200px;
+}
+.heroleft h1{
+  color: #FFC300;
+}
+.herobottom{
+  margin-top: 50px;
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+}

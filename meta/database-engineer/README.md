@@ -17,5 +17,5 @@ To run the Python scripts, you'll need to have the following packages installed:
 ## Conclusion
 By working through this project, you'll gain experience with Python, MySQL, and Tableau, and learn how to use these tools to analyze and visualize data. You'll also gain insights into how data analysis can be used to inform business decisions and drive growth.
 
-##about
+## about
 Ederson Melo
